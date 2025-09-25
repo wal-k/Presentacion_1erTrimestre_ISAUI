@@ -1,0 +1,77 @@
+name: Build and Deploy AsciiDoc to Pages
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+      
+      - name: Install Asciidoctor and extensions
+        run: |
+          gem install asciidoctor
+          gem install asciidoctor-revealjs
+          gem install asciidoctor-pdf
+      
+      - name: Build presentations
+        run: |
+          # Create output directory
+          mkdir -p _site
+          
+          # Convert all .adoc files to HTML presentations
+          for file in slides/*.adoc; do
+            if [ -f "$file" ]; then
+              filename=$(basename "$file" .adoc)
+              asciidoctor-revealjs "$file" -o "_site/${filename}.html"
+            fi
+          done
+          
+          # Create index page if it exists
+          if [ -f "index.adoc" ]; then
+            asciidoctor index.adoc -o _site/index.html
+          fi
+          
+          # Copy any additional assets
+          if [ -d "images" ]; then
+            cp -r images _site/
+          fi
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

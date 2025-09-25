@@ -1,0 +1,10 @@
+plugins:
+  - jekyll-asciidoc
+
+asciidoc: {}
+asciidoctor:
+  safe: unsafe
+  attributes:
+    - idseparator=_
+    - source-highlighter=rouge
+    - icons=font

@@ -1,0 +1,33 @@
+= Mis Presentaciones
+:toc:
+:toc-title: Índice de Presentaciones
+
+== Presentaciones Disponibles
+
+=== Salud y Nutrición
+* link:nutrition-pregnancy.html[Nutrición en el Primer Trimestre de Embarazo^]
+* link:healthy-eating.html[Alimentación Saludable^] 
+
+=== Tecnología  
+* link:digital-transformation.html[Transformación Digital^]
+* link:web-development.html[Desarrollo Web Moderno^]
+
+== Cómo usar estas presentaciones
+
+. Haz clic en cualquier enlace arriba
+. Usa las flechas del teclado para navegar
+. Presiona `ESC` para vista general
+. Presiona `S` para modo speaker notes
+
+== Información
+
+Todas las presentaciones están creadas con:
+
+* *AsciiDoc* para contenido limpio y legible
+* *Asciidoctor Reveal.js* para presentaciones web  
+* *GitHub Pages* para hosting automático
+* *GitHub Actions* para deploy automático
+
+=== Contacto
+
+Para sugerencias o correcciones, por favor crea un https://github.com/yourusername/your-presentation-repo/issues[issue en GitHub^].
