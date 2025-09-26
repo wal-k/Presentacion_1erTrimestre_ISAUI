@@ -1,33 +1,366 @@
-= Mis Presentaciones
-:toc:
-:toc-title: Índice de Presentaciones
 
-== Presentaciones Disponibles
+:author: Arguello Y., Barrionuevo J., Flores V.,  Kutschker W., Piazzi E.
+:revealjs_theme: white
+:revealjsdir: https://cdn.jsdelivr.net/npm/reveal.js
+:showtitle: false
 
-=== Salud y Nutrición
-* link:nutrition-pregnancy.html[Nutrición en el Primer Trimestre de Embarazo^]
-* link:healthy-eating.html[Alimentación Saludable^] 
 
-=== Tecnología  
-* link:digital-transformation.html[Transformación Digital^]
-* link:web-development.html[Desarrollo Web Moderno^]
+== I.E.F.I
 
-== Cómo usar estas presentaciones
+++++
+<div style="display: flex; flex-direction: column; justify-content: flex-start; align-items: center; height: 100%;">
+  <img src="imagenes/ISAUI.png" style="width:800px; margin-bottom: 20px;">
+</div>
+++++
 
-. Haz clic en cualquier enlace arriba
-. Usa las flechas del teclado para navegar
-. Presiona `ESC` para vista general
-. Presiona `S` para modo speaker notes
+[.text-center]
 
-== Información
+Estudiantes:
 
-Todas las presentaciones están creadas con:
+Arguello Yamila
 
-* *AsciiDoc* para contenido limpio y legible
-* *Asciidoctor Reveal.js* para presentaciones web  
-* *GitHub Pages* para hosting automático
-* *GitHub Actions* para deploy automático
+Barrionuevo Julieta 
 
-=== Contacto
+Flores Virginia  
 
-Para sugerencias o correcciones, por favor crea un https://github.com/yourusername/your-presentation-repo/issues[issue en GitHub^].
+Kutschker Walter
+
+Piazzi Eugenia
+
+== PRIMER TRIMESTRE DE EMBARAZO
+
+=== Temario
+
+* Desarrollo embrionario
+* Cambios fisiologicos y psicologicos
+* Controles Prenatales
+* Riesgos en el 1er trimestre
+* Recomendaciones nutricionales
+
+
+
+== Desarrollo embrionario
+
+=== Etapas principales
+
+El desarrollo embrionario es un proceso que se inicia una vez formado el cigoto y se prolonga hasta el nacimiento del nuevo individuo. Consta de tres etapas principales:
+
+* Segmentación
+* Gastrulación
+* Organogénesis
+
+=== Primer trimestre y organogénesis
+
+En el primer trimestre ocurre la **organogénesis**, pero para entenderla primero debemos hablar de lo que sucede durante la **gastrulación**.
+
+=== Gastrulación: que es? 
+
+Desarrollo un poco...
+
+La gastrulación es el primer paso crucial para la formación de los òrganos (organogenesis) ya que establece los tipos celulares que formarán los diferentes tejidos.
+(Esto sale cuando termino lo que hablo en gastrulación)
+
+
+=== Ahora sí, que es la organogenesis ???
+
+Desarrollo...
+
+Se produce:
+
+* el crecimiento del feto 
+* La diferenciación histológica
+* La formación de los distintos órganos.
+
+=== Comienzo y final de la organogenesis ?
+
+
+En la organogénesis  se dan los siguientes procesos, las capas germinales:
+
+* Ectodermo
+* Mesodermo
+* Endodermo
+
+=== Organogenesis
+
+El embrión va cambiando de aspecto y desarrollándose gracias a la formación de los diferentes tejidos y órganos, adquiere la forma humana al finalizar el segundo mes de embarazo (embrión de 8 semanas), y pasa a llamarse feto (que significa "retoño"), ya que posee todos los órganos que debe tener para desarrollarse. 
+
+Da lugar a la etapa fetal; Que se produce el desarrollo y crecimiento de los órganos formados en la etapa embrionaria, el embrión se convierte en un feto de de unos 3cm de largo y 3g de peso.
+
+=== Semanas 9-12
+
+IMAGEN
+
+* Alcanza unos 8cm de longitud
+* la cabeza es de aproximadamente la mitad del tamaño del feto
+* Cara, cuello, párpados, extremidades, dedos y genitales ya estan bien formados
+* aparecen los primeros focos de osificación
+* Se empiezan a producir glóbulos rojos en el hígado
+* Es capaz de hacer movimientos intencionados con las extremidades.
+
+
+=== Semanas 13-15
+
+IMAGEN
+
+* Alcanza unos 15cm de longitud
+* comienza el desarrollo de lanugo (pelo fino) en la cabeza
+* continua el desarrollo de los pulmones, glándulas sudoríparas, músculos y huesos
+* Es capaz de tragar y hacer movimientos de succión
+
+
+
+
+== Cambios fisiológicos y psicológicos en el 1° trimestre del embarazo
+
+=== Cambios fisiológicos principales (1/2)
+[%step]
+* **Endocrinos:** ↑ hCG, progesterona, estrógenos, prolactina, relaxina.
+* **Cardiovasculares:** ↑ gasto cardíaco, ↓ presión arterial, soplos funcionales.
+* **Respiratorios:** ↑ ventilación minuto, alcalosis respiratoria leve.
+* **Renales:** ↑ TFG y flujo renal, riesgo de ITU.
+
+=== Cambios fisiológicos principales (2/2)
+[%step]
+* **Gastrointestinales:** reflujo, estreñimiento, náuseas/vómitos.
+* **Tegumentarios:** melasma, línea nigra, hiperpigmentación.
+* **Hematológicos:** anemia fisiológica, hipercoagulabilidad.
+* **Musculoesqueléticos:** lordosis, laxitud ligamentaria.
+
+=== Síntomas frecuentes 
+[%step]
+* Náuseas y vómitos.
+* Cansancio y fatiga.
+* Disnea leve.
+* Cambios cutáneos.
+* Micción frecuente.
+* Mareos o hipotensión.
+
+=== Signos de alarma fisiológicos (1/2)
+[%step]
+* Sangrado vaginal anormal.
+* Dolor abdominal intenso.
+* Cefalea intensa + visión borrosa.
+* Edema súbito en cara y manos.
+
+=== Signos de alarma fisiológicos (2/2)
+[%step]
+* Fiebre > 38 °C.
+* Pérdida de líquido por vagina.
+* Vómitos persistentes (hiperémesis).
+* Dolor torácico o disnea marcada.
+* Convulsiones.
+
+=== Acciones de enfermería sobre cambios fisiológicos (1/2)
+[%step]
+* Fomentar controles prenatales tempranos.
+* Educar sobre cambios normales vs patológicos.
+* Enseñar reconocimiento de signos de alarma.
+* Promover hábitos saludables: alimentación, hidratación, descanso.
+* Manejo de síntomas: náuseas, reflujo, hipotensión, cambios cutáneos.
+
+=== Cambios psicológicos 
+[%step]
+* Impacto emocional inicial (alegría, miedo, ambivalencia).
+* Cambios en el estado de ánimo (oscilaciones, irritabilidad).
+* Adaptación al nuevo rol de madre.
+* Preocupaciones sobre salud, pareja, entorno y proyectos.
+* Inicio del vínculo con el bebé (fantasías, expectativas, temores).
+
+=== Signos de alarma psicológicos (1/2)
+[%step]
+* Ansiedad intensa y persistente.
+* Tristeza profunda y mantenida.
+* Alteraciones graves de sueño y alimentación.
+* Ideas negativas respecto al embarazo.
+
+=== Signos de alarma psicológicos (2/2)
+[%step]
+* Ideación suicida o autolesiva.
+* Conductas de riesgo (alcohol, drogas, abandono del cuidado).
+* Síntomas psicóticos (delirios, alucinaciones).
+* Relatos de violencia.
+
+=== Acciones de enfermería sobre cambios psicológicos (1/2)
+[%step]
+* Escucha activa y contención emocional.
+* Educar sobre cambios emocionales normales.
+* Promover redes de apoyo (pareja, familia, grupos).
+* Detección temprana de problemas de salud mental.
+
+=== Acciones de enfermería sobre cambios psicológicos (2/2)
+[%step]
+* Derivación inmediata ante ideación suicida, violencia o psicosis.
+* Promover autocuidado: sueño, alimentación, relajación.
+* Activar protocolos frente a violencia de género.
+
+
+
+
+== Control Prenatal
+
+seguimiento médico para un embarazo saludable
+
+=== ¿Que es el control prenatal?
+
+*conjunto de acciones médicas y asistenciales 
+
+*entrevistas programadas con el equipo de salud
+
+*OBJETIVOS:*
+
+*controlar la evolución del embarazo y preparar a la madre para el parto y la crianza
+
+
+=== caracteristicas del control prenatal
+:background-image: /imagenes/VIR1.png
+:revealjs_background_opacity: 0.9
+
+* *Precoz:* debe iniciarse en el primer trimestre
+* *Periódico:* frecuencia segun tiempo gestacional, riesgos 
+* *Completo:* evaluacion general y específica
+* *Amplia cobertura:* igualdad, accecibilidad, gratuidad
+
+
+=== Actividades durante el control prenatal (1/2)
+
+* Ácido fólico preconcepcional y el primer trimestre
+* Historia clinica perinatal
+* Evauacion de factores de riesgo
+* Grupo sanguineo y factor
+* Estado nutricional y presión arterial
+
+=== Actividades durante el control prenatal (2/2)
+
+*suplementacion con hierro
+*diagnostico de infecciones (VDRL, chagas, VIH, hepatitis B, etc)
+*urocultivo y ecografias
+*educacion sobre maternidad y anticoncepcion
+
+=== Primera consulta (1/3) 
+
+* Confirmacion de embarazo (test de embarazo, analisis de sangre para detectar hormona gonadotropina coriónica hCG)
+
+* Confeccion de historia clinica perinatal (dentificacion socio-cultural, antecedentes familiares, personales y obstétricos)
+
+=== Primera consulta (2/3) 
+
+* Examen fisico y ginecologico
+* Peso, talla, presion, pulso
+* Altura uterina (se mide en centimetros), frecuencia cardiaca fetal (ecografia), movimientos fetales (leves)
+
+=== Primera consulta (3/3) 
+
+* Prevencion del tétanos neonatal y puerperal 
+* Detección de tabaquismo, alcoholismo, dragsdicción y automedicacion 
+* Deteccion de enfermedades clinicas de la madre (epilepsia, cardiopatias, nefropatias,etc)
+* Examen de mamas y preparacion para lactancia 
+
+=== Examenes complementarios
+
+* Coombs indirecta (anticuerpos)
+* Hemograma, glucemia, urea
+* Urocultivo (detectar bacterias, hongos etc, en la orina)
+* Toxoplasmosis
+* Ecografia (confirmar embarazo intrauterino, detectar n° de fetos, evaluar actividad cardiaca, estimar edad gestacional y FPP)
+* Utiizar gestograma (FPP en base a la FUM)
+
+=== Recomendaciones generales
+
+* Iniciar el control lo antes posible
+* Asistir a todas las consultas programadas
+* Informar cualquier síntoma de alarma
+* Seguir recomendaciones sobre alimentación, descanso y 
+hábitos. 
+
+== Riesgos en el 1er Trimestre de Embarazo
+
+=== Subdiapositiva 1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+=== Subdiapositiva 2
+image::https://via.placeholder.com/400x200.png?text=Riesgos+Imagen[Riesgos]
+
+=== Subdiapositiva 3
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+
+
+
+
+
+
+== Recomendaciones Nutricionales
+
+=== Introducción
+
+La nutrición durante el primer trimestre del embarazo es **fundamental** para el desarrollo embrionario.  
+Una alimentación adecuada ayuda a prevenir *deficiencias nutricionales* y apoya la formación de órganos vitales.
+
+TIP: Una dieta equilibrada también reduce el riesgo de náuseas y vómitos severos.
+
+=== Macronutrientes esenciales
+
+* **Proteínas**: necesarias para el crecimiento de tejidos y órganos.  
+* **Carbohidratos**: principal fuente de energía.  
+* **Grasas saludables**: omega-3 y omega-6 para desarrollo neurológico.  
+
+=== Vitaminas y Minerales (Parte 1)
+
+|===
+| Nutriente | Función | Fuentes recomendadas
+
+| Ácido fólico
+| Prevención de defectos del tubo neural
+| Espinaca, lentejas, aguacate
+
+| Hierro
+| Formación de glóbulos rojos
+| Carne roja magra, legumbres, espinaca
+|===
+
+=== Vitaminas y Minerales (Parte 2)
+
+|===
+| Nutriente | Función | Fuentes recomendadas
+
+| Calcio
+| Desarrollo óseo
+| Leche, yogur, queso
+
+| Vitamina D
+| Absorción de calcio
+| Pescados grasos, huevos, sol
+|===
+
+=== Alimentos a evitar
+
+* Pescados con alto contenido de mercurio  
+* Quesos blandos no pasteurizados  
+* Carnes crudas o mal cocidas  
+* Cafeína en exceso  
+
+
+=== Imagen ilustrativa
+
+image::https://upload.wikimedia.org/wikipedia/commons/7/74/Pregnancy_diet.jpg[Alimentos saludables, width=600, height=400]
+
+=== Recursos y enlaces
+
+Para más información:  
+link:https://www.who.int/news-room/fact-sheets/detail/healthy-diet[Guía OMS de alimentación saludable]
+
+=== Conclusión
+
+Una nutrición adecuada en el primer trimestre es **clave** para:  
+
+* Desarrollo embrionario saludable  
+* Prevención de deficiencias nutricionales  
+* Reducción de riesgos durante el embarazo
+
+TIP: Mantener una dieta equilibrada es tan importante como la suplementación indicada por profesionales de la salud.
+
+== cierre
+
+Nos despedimos con este video
+
+https://www.youtube.com/watch?v=SLgqxChD3TQ
