@@ -1,5 +1,6 @@
 
 
+
 :author: Arguello Y., Barrionuevo J., Flores V.,  Kutschker W., Piazzi E.
 :revealjs_theme: white
 :revealjsdir: https://cdn.jsdelivr.net/npm/reveal.js
@@ -253,6 +254,103 @@ IMAGEN
 
 
 
+== Recomendaciones Nutricionales
+
+
+=== Introducción
+
+
+La nutrición durante el primer trimestre del embarazo es **fundamental** para el desarrollo embrionario.  
+Una alimentación adecuada ayuda a prevenir *deficiencias nutricionales* y apoya la formación de órganos vitales.
+
+
+TIP: Una dieta equilibrada también reduce el riesgo de náuseas y vómitos severos.
+
+
+=== Macronutrientes esenciales
+
+
+* **Proteínas**: necesarias para el crecimiento de tejidos y órganos.  
+* **Carbohidratos**: principal fuente de energía.  
+* **Grasas saludables**: omega-3 y omega-6 para desarrollo neurológico.  
+
+
+=== Vitaminas y Minerales 
+
+|===
+| Nutriente | Función | Fuentes recomendadas
+
+
+| Ácido fólico
+| Prevención de defectos del tubo neural
+| Espinaca, lentejas, aguacate
+
+
+| Hierro
+| Formación de glóbulos rojos
+| Carne roja magra, legumbres, espinaca
+|===
+
+
+
+
+
+=== Vitaminas y Minerales 
+
+|===
+| Nutriente | Función | Fuentes recomendadas
+
+
+| Calcio
+| Desarrollo óseo
+| Leche, yogur, queso
+
+
+| Vitamina D
+| Absorción de calcio
+| Pescados grasos, huevos, sol
+|===
+
+
+=== Alimentos a evitar
+
+
+* Pescados con alto contenido de mercurio  
+* Quesos blandos no pasteurizados  
+* Carnes crudas o mal cocidas  
+* Cafeína en exceso  
+
+
+
+
+=== Imagen ilustrativa
+
+
+image::https://upload.wikimedia.org/wikipedia/commons/7/74/Pregnancy_diet.jpg[Alimentos saludables, width=600, height=400]
+
+
+=== Recursos y enlaces
+
+
+Para más información:  
+link:https://www.who.int/news-room/fact-sheets/detail/healthy-diet[Guía OMS de alimentación saludable]
+
+
+
+
+=== Conclusión
+
+
+Una nutrición adecuada en el primer trimestre es **clave** para:  
+
+
+* Desarrollo embrionario saludable  
+* Prevención de deficiencias nutricionales  
+* Reducción de riesgos durante el embarazo
+
+
+TIP: Mantener una dieta equilibrada es tan importante como la suplementación indicada por profesionales de la salud.
+
 == Control Prenatal
 
 seguimiento médico para un embarazo saludable
@@ -350,131 +448,66 @@ hábitos.
 == Riesgos en el 1er Trimestre de Embarazo
 
 
-=== Subdiapositiva 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+=== Síndrome de Down
 
+image::imagenes/DOWN.png[fit, height=500, align=center]
 
-=== Subdiapositiva 2
-image::https://via.placeholder.com/400x200.png?text=Riesgos+Imagen[Riesgos]
 
+=== Síndrome de Edwards
 
-=== Subdiapositiva 3
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+image::imagenes/EDWARDS.png[fit, height=500, align=center]
 
 
+=== Síndrome de Patau
 
 
+image::imagenes/PATAU.png[fit, height=500, align=center]
 
 
 
 
 
+=== Síndrome de Turner
 
 
+image::imagenes/TURNER.png[fit, height=500, align=center]
 
 
+=== Malformaciones abdominales
 
 
+image::imagenes/ABDOMINAL.png[fit, height=500, align=center]
 
 
+=== Malformaciones abdominales
 
+image::imagenes/ABDOMINAL0.png[fit, height=500, align=center]
 
 
+=== Espina bífida
 
-== Recomendaciones Nutricionales
 
+image::imagenes/BIFIDA.png[fit, height=500, align=center]
 
-=== Introducción
 
+=== Ecografia translucencia nucal
 
-La nutrición durante el primer trimestre del embarazo es **fundamental** para el desarrollo embrionario.  
-Una alimentación adecuada ayuda a prevenir *deficiencias nutricionales* y apoya la formación de órganos vitales.
 
+image::imagenes/ECONUCAL.png[fit, height=500, align=center]
 
-TIP: Una dieta equilibrada también reduce el riesgo de náuseas y vómitos severos.
 
+=== Amnioscentesis
 
-=== Macronutrientes esenciales
 
+image::imagenes/AMNIOSCENTESIS.png[fit, height=500, align=center]
 
-* **Proteínas**: necesarias para el crecimiento de tejidos y órganos.  
-* **Carbohidratos**: principal fuente de energía.  
-* **Grasas saludables**: omega-3 y omega-6 para desarrollo neurológico.  
 
+=== Amnioscentesis
 
-=== Vitaminas y Minerales 
 
-|===
-| Nutriente | Función | Fuentes recomendadas
+image::imagenes/AMNIOSCENTESIS2.png[fit, height=500, align=center]
 
 
-| Ácido fólico
-| Prevención de defectos del tubo neural
-| Espinaca, lentejas, aguacate
-
-
-| Hierro
-| Formación de glóbulos rojos
-| Carne roja magra, legumbres, espinaca
-|===
-
-
-
-
-
-=== Vitaminas y Minerales 
-
-|===
-| Nutriente | Función | Fuentes recomendadas
-
-
-| Calcio
-| Desarrollo óseo
-| Leche, yogur, queso
-
-
-| Vitamina D
-| Absorción de calcio
-| Pescados grasos, huevos, sol
-|===
-
-
-=== Alimentos a evitar
-
-
-* Pescados con alto contenido de mercurio  
-* Quesos blandos no pasteurizados  
-* Carnes crudas o mal cocidas  
-* Cafeína en exceso  
-
-
-
-
-=== Imagen ilustrativa
-
-
-image::https://upload.wikimedia.org/wikipedia/commons/7/74/Pregnancy_diet.jpg[Alimentos saludables, width=600, height=400]
-
-
-=== Recursos y enlaces
-
-
-Para más información:  
-link:https://www.who.int/news-room/fact-sheets/detail/healthy-diet[Guía OMS de alimentación saludable]
-
-
-=== Conclusión
-
-
-Una nutrición adecuada en el primer trimestre es **clave** para:  
-
-
-* Desarrollo embrionario saludable  
-* Prevención de deficiencias nutricionales  
-* Reducción de riesgos durante el embarazo
-
-
-TIP: Mantener una dieta equilibrada es tan importante como la suplementación indicada por profesionales de la salud.
 
 
 == cierre
