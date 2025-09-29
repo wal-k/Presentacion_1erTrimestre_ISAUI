@@ -1,8 +1,0 @@
-section.cover-top {
-    display: flex !important;         /* activa flexbox */
-    flex-direction: column;           /* apila elementos verticalmente */
-    justify-content: flex-start !important; /* alinea al inicio (arriba) */
-    align-items: center;              /* centra horizontalmente */
-    height: 100%;                     /* ocupa todo el slide */
-    padding-top: 20px;                /* opcional: margen superior */
-}

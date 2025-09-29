@@ -1,0 +1,16 @@
+.left-img {
+  float: left;
+  margin-right: 20px;
+  width: 50%;          /* ancho relativo al contenedor */
+}
+
+.left-img img {
+  max-height: 70vh;    /* hasta 70% de la altura de la ventana */
+  width: auto;         /* mantiene proporción */
+}
+
+.txt-right {
+  width: 45%;          /* ajusta según lo que necesites */
+  display: inline-block;
+  vertical-align: top;
+}

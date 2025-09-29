@@ -1,10 +1,14 @@
-
-
+// Cosas de Mandinga
 
 :author: Arguello Y., Barrionuevo J., Flores V.,  Kutschker W., Piazzi E.
-:revealjs_theme: white
-:revealjsdir: https://cdn.jsdelivr.net/npm/reveal.js
+:revealjs_theme: custom_white
 :showtitle: false
+
+pass:[<link rel="stylesheet" href="css/custom.css">]
+
+:revealjsdir: .
+
+//Portada
 
 == I.E.F.I
 
@@ -57,106 +61,44 @@ Piazzi Eugenia
 
 
 
+//YAMI
 
 
 == Desarrollo embrionario
 
+[%notitle]
+=== - - - 
+image::imagenes/yami/MESES.jpg[.fullsize]
 
-=== Etapas principales
+[%notitle]
+=== - - - 
 
+image::imagenes/yami/1.png[.fullsize]
 
-El desarrollo embrionario es un proceso que se inicia una vez formado el cigoto y se prolonga hasta el nacimiento del nuevo individuo. Consta de tres etapas principales:
+[%notitle]
+=== - - - 
 
+image::imagenes/yami/2.png[.fullsize]
 
-* Segmentación
-* Gastrulación
-* Organogénesis
+[%notitle]
+=== - - - 
 
+image::imagenes/yami/3.png[.fullsize]
 
-=== Primer trimestre y organogénesis
+[%notitle]
+=== - - - 
 
-
-En el primer trimestre ocurre la **organogénesis**, pero para entenderla primero debemos hablar de lo que sucede durante la **gastrulación**.
-
-
-
-
-
-
-
-=== Gastrulación: que es?
-
-La gastrulación es el primer paso crucial para la formación de los òrganos (organogenesis) ya que establece los tipos celulares que formarán los diferentes tejidos.
-(Esto sale cuando termino lo que hablo en gastrulación)
+image::imagenes/yami/4.png[.fullsize]
 
 
-=== Ahora sí, que es la organogenesis ???
-
-Se produce:
-
-* el crecimiento del feto
-* La diferenciación histológica
-* La formación de los distintos órganos.
-
-=== Comienzo y final de la organogenesis ?
-
-En la organogénesis  se dan los siguientes procesos, las capas germinales:
-
-
-* Ectodermo
-* Mesodermo
-* Endodermo
-
-
-=== Organogenesis
-
-El embrión va cambiando de aspecto y desarrollándose gracias a la formación de los diferentes tejidos y órganos, adquiere la forma humana al finalizar el segundo mes de embarazo (embrión de 8 semanas), y pasa a llamarse feto (que significa "retoño"), ya que posee todos los órganos que debe tener para desarrollarse.
-
-
-Da lugar a la etapa fetal; Que se produce el desarrollo y crecimiento de los órganos formados en la etapa embrionaria, el embrión se convierte en un feto de de unos 3cm de largo y 3g de peso.
-
-
-
-
-
-
-
-
-=== Semanas 9-12
-
-
-IMAGEN
-
-
-* Alcanza unos 8cm de longitud
-* la cabeza es de aproximadamente la mitad del tamaño del feto
-* Cara, cuello, párpados, extremidades, dedos y genitales ya estan bien formados
-* aparecen los primeros focos de osificación
-* Se empiezan a producir glóbulos rojos en el hígado
-* Es capaz de hacer movimientos intencionados con las extremidades.
-
-
-
-
-=== Semanas 13-15
-
-IMAGEN
-
-
-
-* Alcanza unos 15cm de longitud
-* comienza el desarrollo de lanugo (pelo fino) en la cabeza
-* continua el desarrollo de los pulmones, glándulas sudoríparas, músculos y huesos
-* Es capaz de tragar y hacer movimientos de succión
-
-
+//JULI
 
 == Cambios fisiológicos y psicológicos en el 1° trimestre del embarazo
 
 
 === Cambios fisiológicos principales 
 
-[%step]
+
 * **Endocrinos:** ↑ hCG, progesterona, estrógenos, prolactina, relaxina.
 * **Cardiovasculares:** ↑ gasto cardíaco, ↓ presión arterial, soplos funcionales.
 * **Respiratorios:** ↑ ventilación minuto, alcalosis respiratoria leve.
@@ -167,7 +109,7 @@ IMAGEN
 
 
 === Cambios fisiológicos principales 
-[%step]
+
 * **Gastrointestinales:** reflujo, estreñimiento, náuseas/vómitos.
 * **Tegumentarios:** melasma, línea nigra, hiperpigmentación.
 * **Hematológicos:** anemia fisiológica, hipercoagulabilidad.
@@ -175,7 +117,7 @@ IMAGEN
 
 
 === Síntomas frecuentes
-[%step]
+
 * Náuseas y vómitos.
 * Cansancio y fatiga.
 * Disnea leve.
@@ -185,24 +127,22 @@ IMAGEN
 
 
 === Signos de alarma fisiológicos 
-[%step]
+
+[.txt-right]
 * Sangrado vaginal anormal.
 * Dolor abdominal intenso.
 * Cefalea intensa + visión borrosa.
 * Edema súbito en cara y manos.
 
-
-=== Signos de alarma fisiológicos 
-[%step]
+[.left-img]
 * Fiebre > 38 °C.
 * Pérdida de líquido por vagina.
 * Vómitos persistentes (hiperémesis).
 * Dolor torácico o disnea marcada.
 * Convulsiones.
 
-
 === Acciones de enfermería sobre cambios fisiológicos 
-[%step]
+
 * Fomentar controles prenatales tempranos.
 * Educar sobre cambios normales vs patológicos.
 * Enseñar reconocimiento de signos de alarma.
@@ -211,7 +151,7 @@ IMAGEN
 
 
 === Cambios psicológicos
-[%step]
+
 * Impacto emocional inicial (alegría, miedo, ambivalencia).
 * Cambios en el estado de ánimo (oscilaciones, irritabilidad).
 * Adaptación al nuevo rol de madre.
@@ -220,23 +160,27 @@ IMAGEN
 
 
 === Signos de alarma psicológicos 
-[%step]
+
+[.txt-right]
 * Ansiedad intensa y persistente.
 * Tristeza profunda y mantenida.
 * Alteraciones graves de sueño y alimentación.
 * Ideas negativas respecto al embarazo.
 
-
-=== Signos de alarma psicológicos 
-[%step]
+[.left-img]
 * Ideación suicida o autolesiva.
 * Conductas de riesgo (alcohol, drogas, abandono del cuidado).
 * Síntomas psicóticos (delirios, alucinaciones).
 * Relatos de violencia.
 
 
+
+
+
+
+
 === Acciones de enfermería sobre cambios psicológicos 
-[%step]
+
 * Escucha activa y contención emocional.
 * Educar sobre cambios emocionales normales.
 * Promover redes de apoyo (pareja, familia, grupos).
@@ -244,14 +188,14 @@ IMAGEN
 
 
 === Acciones de enfermería sobre cambios psicológicos 
-[%step]
+
 * Derivación inmediata ante ideación suicida, violencia o psicosis.
 * Promover autocuidado: sueño, alimentación, relajación.
 * Activar protocolos frente a violencia de género.
 
 
 
-
+//WALTER
 
 
 == Recomendaciones Nutricionales
@@ -351,6 +295,9 @@ Una nutrición adecuada en el primer trimestre es **clave** para:
 
 TIP: Mantener una dieta equilibrada es tan importante como la suplementación indicada por profesionales de la salud.
 
+
+//VIR
+
 == Control Prenatal
 
 seguimiento médico para un embarazo saludable
@@ -429,12 +376,6 @@ seguimiento médico para un embarazo saludable
 * Utiizar gestograma (FPP en base a la FUM)
 
 
-
-
-
-
-
-
 === Recomendaciones generales
 
 
@@ -445,70 +386,108 @@ seguimiento médico para un embarazo saludable
 hábitos.
 
 
+//EUGE
+
 == Riesgos en el 1er Trimestre de Embarazo
 
 
-=== Síndrome de Down
+=== Introducción
+- Objetivo de los controles prenatales: acompañar el desarrollo materno-fetal y asegurar una gestación saludable.
+- Controles rutinarios: análisis de sangre, orina, presión arterial, ecografías.
+- Estudios específicos: no reemplazan a los rutinarios, pero detectan precozmente riesgos o alteraciones fetales.
+- Beneficio: decisiones médicas informadas y prevención de complicaciones.
 
-image::imagenes/DOWN.png[fit, height=500, align=center]
+=== Desarrollo 
+- Importancia: cualquier alteración durante la *organogénesis* puede afectar el desarrollo posterior.
+- Análisis bioquímicos maternos: beta-HCG libre y PAPP-A; combinados con ecografía = índice de riesgo.
+- Diagnósticos invasivos:
+  * Biopsia de vellosidades coriónicas: muestra de placenta para análisis genético.
+  * Amniocentesis: extracción de líquido amniótico para estudio de cariotipo.
+- Estudios específicos: ecografía de traslucencia nucal (11-14 semanas) mide líquido en la nuca del feto; aumento = riesgo cromosómico.
+
+=== Ecografia de translucencia nucal
+
+image::imagenes/ECONUCAL.png[Down, width=600, alt="Down"]
+
+=== Amniocentesis
+
+image::imagenes/AMNIOSCENTESIS.png[Down, width=600, alt="Down"]
+
+=== Anolaías cromosómicas mas comunes
+
+=== Síndrome de Down (trisomía 21)
+
+[.left-img]
+image::imagenes/DOWN.png[Down, width=250, alt="Down"]
+
+[.txt-right]
+* Retraso intelectual 
+* Cardiopatías congénitas.
+
+=== Síndrome de Edwards (trisomía 18)
+
+[.left-img]
+image::imagenes/EDWARDS.png[Edwards, width=250, alt="Edwards"]
+
+[.txt-right]
+* Malformaciones múltiples
+* Bajo peso
+* Alta mortalidad
+
+=== Síndrome de Patau (trisomía 13)
+
+[.left-img]
+image::imagenes/PATAU.png[Patau, width=250, alt="Patau"]
+
+[.txt-right]
+
+* Malformaciones SNC.
+* Cardiopatías. 
+* Anomalías faciales.
+
+=== Síndrome de Turner (monosomía X)
+
+[.left-img]
+image::imagenes/TURNER.png[Turner, width=250, alt="Turner"]
+
+[.txt-right]
+* Talla baja
+* Alteraciones en el aparato genital.
+* Posibles malformaciones cardíacas.
 
 
-=== Síndrome de Edwards
-
-image::imagenes/EDWARDS.png[fit, height=500, align=center]
+=== Malformaciones estructurales detectables precozmente
 
 
-=== Síndrome de Patau
+- Cardiopatías congénitas: sospecha en 1er trimestre, confirmación con ecocardiografía fetal.
+- Defectos del tubo neural: ej. espina bífida (2do trimestre, ecografía y alfa-fetoproteína).
+- Malformaciones abdominales: onfalocele, gastrosquisis.
 
-
-image::imagenes/PATAU.png[fit, height=500, align=center]
-
-
-
-
-
-=== Síndrome de Turner
-
-
-image::imagenes/TURNER.png[fit, height=500, align=center]
-
-
-=== Malformaciones abdominales
-
-
-image::imagenes/ABDOMINAL.png[fit, height=500, align=center]
-
-
-=== Malformaciones abdominales
-
-image::imagenes/ABDOMINAL0.png[fit, height=500, align=center]
-
-
-=== Espina bífida
-
+=== Espina bifida
 
 image::imagenes/BIFIDA.png[fit, height=500, align=center]
 
+=== Gastrosquisis
 
-=== Ecografia translucencia nucal
+image::imagenes/ABDOMINAL0.png[fit, height=500, align=center]
 
+=== Gastrosquisis
 
-image::imagenes/ECONUCAL.png[fit, height=500, align=center]
+image::imagenes/ONFALOCELE.png[fit, height=500, align=center]
 
+=== Patologías maternas de riesgo en el primer trimestre
 
-=== Amnioscentesis
+[.txt-right]
+- Diabetes gestacional precoz: afecta crecimiento fetal y metabolismo.
+- Hipertensión/preeclampsia temprana: detectables con marcadores bioquímicos y Doppler uterino.
+- Infecciones maternas: toxoplasmosis, rubéola, citomegalovirus; graves secuelas fetales.
 
+=== Conclusión
 
-image::imagenes/AMNIOSCENTESIS.png[fit, height=500, align=center]
-
-
-=== Amnioscentesis
-
-
-image::imagenes/AMNIOSCENTESIS2.png[fit, height=500, align=center]
-
-
-
+[.txt-right]
+- Los controles de rutina aseguran seguimiento normal.
+- Los estudios específicos permiten detectar anomalías y riesgos tempranamente.
+- Ambos son complementarios: brindan seguridad, previenen complicaciones y protegen la salud materna y fetal.
 
 == cierre
 
@@ -517,3 +496,22 @@ Nos despedimos con este video
 
 
 https://www.youtube.com/watch?v=SLgqxChD3TQ
+
+
+
+[style="display:flex; justify-content:center; align-items:center;"]
+== ej 3d
+
+++++
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+<model-viewer src="utero3.glb"
+              alt="3D model"
+              camera-controls
+              auto-rotate
+              min-camera-orbit="auto auto 0.5m"
+              max-camera-orbit="auto auto 10m"
+              style="display:block; margin:0 auto; width:900px; height:600px;">
+</model-viewer>
+
+++++
