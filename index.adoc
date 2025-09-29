@@ -42,10 +42,6 @@ Piazzi Eugenia
 
 
 
-
-
-
-
 == PRIMER TRIMESTRE DE EMBARAZO
 
 
@@ -57,8 +53,6 @@ Piazzi Eugenia
 * Controles Prenatales
 * Riesgos en el 1er trimestre
 * Recomendaciones nutricionales
-
-
 
 
 //YAMI
@@ -197,104 +191,67 @@ image::imagenes/yami/4.png[.fullsize]
 
 //WALTER
 
+== Recomendaciones nutricionales en el 1er trimetre
 
-== Recomendaciones Nutricionales
+[[calorias_macros]]
+=== 1. Calorías y macronutrientes
 
+Las necesidades calóricas apenas aumentan (~100 kcal extra/día).
 
-=== Introducción
+* Proteínas: 1,1 g/kg/día, esenciales para la formación de células y tejidos del bebé.
+  ** Fuentes: carnes magras, pescado seguro, huevos, lácteos, legumbres
 
+* Carbohidratos: principal fuente de energía; preferir complejos para mantener glucosa estable.
+  ** Fuentes: cereales integrales, frutas, verduras
 
-La nutrición durante el primer trimestre del embarazo es **fundamental** para el desarrollo embrionario.  
-Una alimentación adecuada ayuda a prevenir *deficiencias nutricionales* y apoya la formación de órganos vitales.
+* Grasas: importantes para el desarrollo cerebral y ocular (DHA/omega-3).
+  ** Fuentes: aceite de oliva, frutos secos, semillas, pescados grasos seguros
 
+[[micronutrientes]]
+=== 2. Micronutrientes clave
 
-TIP: Una dieta equilibrada también reduce el riesgo de náuseas y vómitos severos.
+* *Ácido fólico* (B9): 400–800 mcg/día → previene defectos del tubo neural
+  ** Fuentes: verduras de hoja, legumbres, cereales fortificados
 
+* *Hierro:* necesidad aumenta por el incremento del volumen sanguíneo; previene anemia
+  ** Fuentes: carne magra, porotos, espinaca; acompañar con vitamina C para mejorar absorción
 
-=== Macronutrientes esenciales
+* *Calcio:* para huesos y dientes del bebé; meta 1000 mg/día
+  ** Fuentes: lácteos, leches vegetales fortificadas, verduras de hoja
 
+[[micronutrientes2]]
+=== 2. Micronutrientes clave
 
-* **Proteínas**: necesarias para el crecimiento de tejidos y órganos.  
-* **Carbohidratos**: principal fuente de energía.  
-* **Grasas saludables**: omega-3 y omega-6 para desarrollo neurológico.  
+* *Yodo:* función tiroidea y desarrollo cerebral
+  ** Fuentes: sal yodada, lácteos, pescado seguro
 
+* *Vitamina D:* ayuda a absorber calcio; deficiencia frecuente
+  ** Fuentes: sol, alimentos fortificados, suplementos si se requiere
 
-=== Vitaminas y Minerales 
+* *Vitamina B12:* especialmente importante si se sigue dieta vegetariana/vegana
+  ** Fuentes: carne, huevos, lácteos, alimentos fortificados
 
-|===
-| Nutriente | Función | Fuentes recomendadas
+[[hidratacion]]
+=== 3. Hidratación
 
+* Beber ~2–2,5 L líquidos/día
+* Agua y tisanas seguras; evitar exceso de cafeína o hierbas no recomendadas
 
-| Ácido fólico
-| Prevención de defectos del tubo neural
-| Espinaca, lentejas, aguacate
+[[alimentos_a_evitar]]
+=== 4. Alimentos y sustancias a evitar
 
+* Pescado con alto mercurio (atun, caballa, tiburón)
+* Carnes, huevos o mariscos crudos o poco cocidos
+* Lácteos o jugos sin pasteurizar
+* Alcohol: abstenerse completamente durante todo el embarazo; no hay cantidad segura (recomendacion OMS)
+* Cafeína >200 mg/día
 
-| Hierro
-| Formación de glóbulos rojos
-| Carne roja magra, legumbres, espinaca
-|===
+[[consejos_nauseas]]
+=== 5. Consejos para náuseas
 
-
-
-
-
-=== Vitaminas y Minerales 
-
-|===
-| Nutriente | Función | Fuentes recomendadas
-
-
-| Calcio
-| Desarrollo óseo
-| Leche, yogur, queso
-
-
-| Vitamina D
-| Absorción de calcio
-| Pescados grasos, huevos, sol
-|===
-
-
-=== Alimentos a evitar
-
-
-* Pescados con alto contenido de mercurio  
-* Quesos blandos no pasteurizados  
-* Carnes crudas o mal cocidas  
-* Cafeína en exceso  
-
-
-
-
-=== Imagen ilustrativa
-
-
-image::https://upload.wikimedia.org/wikipedia/commons/7/74/Pregnancy_diet.jpg[Alimentos saludables, width=600, height=400]
-
-
-=== Recursos y enlaces
-
-
-Para más información:  
-link:https://www.who.int/news-room/fact-sheets/detail/healthy-diet[Guía OMS de alimentación saludable]
-
-
-
-
-=== Conclusión
-
-
-Una nutrición adecuada en el primer trimestre es **clave** para:  
-
-
-* Desarrollo embrionario saludable  
-* Prevención de deficiencias nutricionales  
-* Reducción de riesgos durante el embarazo
-
-
-TIP: Mantener una dieta equilibrada es tan importante como la suplementación indicada por profesionales de la salud.
-
+* Comer poco y frecuentemente
+* Snacks secos antes de levantarse
+* Jengibre o comidas suaves ayudan a tolerar mejor los alimentos
 
 //VIR
 
