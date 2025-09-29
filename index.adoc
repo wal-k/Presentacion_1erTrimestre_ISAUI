@@ -471,7 +471,7 @@ image::imagenes/BIFIDA.png[fit, height=500, align=center]
 
 image::imagenes/ABDOMINAL0.png[fit, height=500, align=center]
 
-=== Gastrosquisis
+=== Onfalocele
 
 image::imagenes/ONFALOCELE.png[fit, height=500, align=center]
 
